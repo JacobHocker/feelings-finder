@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(194, 140, 140);
+  background-image: url("https://www.pngkey.com/png/full/13-131708_transparent-glass-texture-png.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+

@@ -1,0 +1,138 @@
+{
+    "negative": 
+    [ 
+    {
+        "id": 0,
+        "name": "Bad",
+        "feelingDescription": "Experience regret, sadness, embarassment, or similar unpleasant emotion.",
+        "hexColor": "#8FDAAF",
+        "subFeelings": [
+            {
+                "id": 7,
+                "name": "Bored",
+                "feelingDescription": "Filler",
+                "hexColor": "#C1EBD6",
+                "subFeelings": [
+                    {
+                        "id": 11,
+                        "name": "Indifferent",
+                        "feelingDescription": "Filler",
+                        "hexColor": "#91DAAD"
+                    },
+                    {
+                        "id": 12,
+                        "name": "Apathetic",
+                        "feelingDescription": "Filler",
+                        "hexColor": "#91DAAD"
+                    }
+                ]
+            }, 
+            {
+                "id": 8,
+                "name": "Busy",
+                "feelingDescription": "Filler",
+                "hexColor": "#C1EBD6",
+                "subFeelings":[
+                    {
+                        "id": 13,
+                        "name": "Pressured",
+                        "feelingDescription": "Filler",
+                        "hexColor": "#91DAAD"
+                    },
+                    {
+                        "id": 13,
+                        "name": "Rushed",
+                        "feelingDescription": "Filler",
+                        "hexColor": "#91DAAD"
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "name": "Stressed",
+                "feelingDescription": "Filler",
+                "hexColor":"#C1EBD6",
+                "subFeelings":[
+                    {
+
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "name": "Tired",
+                "feelingDescription": "Filler",
+                "subFeelings":[
+                    {
+
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Fearful",
+        "feelingDescription": "Feeling afraid, showing fear or anxiety.",
+        "subFeelings": [
+            {
+
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Angry",
+        "feelingDescription": "Feeling or showing strong annoyance, displeasure or hostility.",
+        "subFeelings": [
+            {
+
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Disgusted",
+        "feelingDescription": "Feeling or expressing revulsion or strong disapproval.",
+        "subFeelings": [
+            {
+
+            }
+        ]
+    }, 
+    {
+        "id": 4,
+        "name": "Sad",
+        "feelingDescription": "Feeling or showing sorrow, unhappy.",
+        "subFeelings":[
+            {
+
+            }
+        ]
+    }
+    ],
+    "positive": 
+    [
+        {
+            "id": 5,
+            "name": "Happy",
+            "feelingDescription": "Feeling or showing pleasure or contentment.",
+            "subFeelings":[
+                {
+
+                }
+            ]
+
+        },
+        {
+            "id": 6,
+            "name": "Surprised",
+            "feelingDescription": "Feeling mild astonishment or shock, at an unexpected event, fact, or thing.",
+            "subFeelings":[
+                {
+                    
+                }
+            ]
+        }
+    ]
+}
